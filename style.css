@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item2{
+   
+   font-family: sans-serif;
+   color: #000000;
+}
+
+.btn-5{
+    background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+   
+    border-radius: 1px solid;
+ 
+}
+.para{
+    color: black;
+
+}
+.h1-1{
+    color: #31135E;
+    ;
+}
+.free{
+    color:#8E54E9;
+}
+
+.main{
+        background-color:#d8d0e9;}
+       
